@@ -51,8 +51,8 @@ print ( "Antonyms : " ,set(antonyms) )
 <H3>Output</H3>
 input sentence: 
 
-<img width="384" height="42" alt="image" src="https://github.com/user-
- attachments/assets/27d99ea8-1a8e-4cb4-81be-57937c11c3e6" />
+<img width="401" height="45" alt="image" src="https://github.com/user-attachments/assets/b1c005b0-fd38-4adc-bdd0-383751cfc1cc" />
+
 
  <img width="140" height="205" alt="image" src="https://github.com/user-attachments/assets/1329b558-a16f-41b9-9715-1bb221d8650b" />
 
